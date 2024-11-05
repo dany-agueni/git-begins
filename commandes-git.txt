@@ -3,3 +3,4 @@ git clone url
 git add
 git commit
 git push -u origin
+git pull
